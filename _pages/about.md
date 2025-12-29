@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Hao Liu (刘昊)"
+title: "Welcome to Hao Liu’s homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
+About Me
+======
+刘昊  
+Hao, Liu
 
-I am a Ph.D. candidate at the State Key Laboratory of Natural Medicines, China Pharmaceutical University, working at the intersection of machine learning and pharmaceutical sciences. My research focuses on applying advanced AI techniques to drug discovery, particularly for challenging therapeutic targets, and developing intelligent clinical decision support systems. I am fortunate to be supervised by Academician [Guangji Wang](https://www.cae.cn/cae/html/main/colys/41733597.html), Professor [Guo Yu](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/D505D9EA25B7E8E3FCA77DEC1F03C908), and Professor [De-chuan Zhan](https://www.yuque.com/zhandc/home/nk8z4o) from Nanjing University's School of Artificial Intelligence.
+I am a Ph.D. candidate in Pharmacokinetics and Drug Metabolism at the State Key Laboratory of Natural Medicines, China Pharmaceutical University, working at the intersection of computational pharmacology and artificial intelligence. My research focuses on applying advanced machine learning techniques to drug discovery, particularly for challenging therapeutic targets, and developing AI-driven approaches for pharmacokinetic modeling and clinical decision support. I am fortunate to be supervised by Academician [Guangji Wang](https://www.cae.cn/cae/html/main/colys/41733597.html) and Professor [Guo Yu](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/D505D9EA25B7E8E3FCA77DEC1F03C908) from China Pharmaceutical University, and Professor [De-chuan Zhan](https://www.yuque.com/zhandc/home/nk8z4o) from the School of Artificial Intelligence, Nanjing University.
 
 **Contact**: [3124074362@stu.cpu.edu.cn](mailto:3124074362@stu.cpu.edu.cn) | **Location**: A202, Yifu Building, Nanjing University Xianlin Campus
 
@@ -77,17 +80,17 @@ Dai A, **Liu H**, Shen P, et al. Incorporating preoperative frailty to assist in
 
 ## 🎓 Education
 
-**Ph.D. in Pharmaceutical Sciences** | Sep 2024 – Present  
+**Ph.D. in Pharmacokinetics and Drug Metabolism** | Sep 2024 – Present  
 State Key Laboratory of Natural Medicines, China Pharmaceutical University  
-*Supervisors: Academician Guangji Wang (Principal), Prof. Guo Yu, Prof. De-chuan Zhan*  
-*Focus: AI for drug discovery and clinical decision support*
+*Supervisors: Academician Guangji Wang (Principal, China Pharmaceutical University), Prof. Guo Yu (China Pharmaceutical University), Prof. De-chuan Zhan (Nanjing University)*  
+*Focus: AI-driven drug discovery and computational pharmacokinetics*
 
-**Master of Pharmacy** | Sep 2021 – Jun 2024  
+**Master of Pharmacy (M.Pharm.)** | Sep 2021 – Jun 2024  
 School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University  
 *Supervisor: Associate Chief Pharmacist [Jianjun Zou](https://www.njsdyyy.com.cn/yiji/yaoxuebu/zhuanjiajieshao/2018-08-31/2668.html) (Nanjing First Hospital)*  
-*Thesis: Machine learning applications in clinical pharmacy and risk prediction*
+*Thesis: Machine learning applications in clinical pharmacy and perioperative risk prediction*
 
-**B.Sc. in Life Sciences and Biopharmaceuticals** | Sep 2016 – Jun 2021  
+**B.Sc. in Clinical Pharmacy** | Sep 2016 – Jun 2021  
 Shenyang Pharmaceutical University
 
 ---
@@ -152,3 +155,5 @@ Git, Docker, Linux/Unix, High-Performance Computing (HPC), Cloud Computing (AWS/
 **Mailing Address**: State Key Laboratory of Natural Medicines, China Pharmaceutical University, 24 Tongjiaxiang, Nanjing 211198, China
 
 ---
+
+*Last updated: December 2024*
