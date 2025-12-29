@@ -113,7 +113,7 @@ Git, Docker, Linux/Unix, High-Performance Computing (HPC), Cloud Computing (AWS/
 
 ## 📰 News & Updates
 
-**December 2024**: Paper on dynamic respiratory failure prediction accepted by *BMC Anesthesiology*
+**July 2025**: Paper on dynamic respiratory failure prediction accepted by *BMC Anesthesiology*
 
 **September 2024**: Started Ph.D. program at State Key Laboratory of Natural Medicines
 
