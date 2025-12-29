@@ -51,31 +51,18 @@ My research bridges computational methods and pharmaceutical applications, with 
 ### 2025
 
 **Xu M**, **Liu H†**, Dai A, et al. Dynamic and Interpretable Deep Learning Model for Predicting Respiratory Failure Following Cardiac Surgery. *BMC Anesthesiology*. 2025;25:239. [DOI: 10.1186/s12871-025-03239-z](https://doi.org/10.1186/s12871-025-03239-z)
-- Developed a temporal deep learning framework for real-time risk prediction
-- Achieved superior performance with interpretable feature attribution
 
 Liu D, **Liu H**, Wu Y, Wang W. Time trends in stomach cancer mortality across the BRICS: An age-period-cohort analysis for the GBD 2021. *Front Public Health*. 2025;13:1506925. [DOI: 10.3389/fpubh.2025.1506925](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1506925/full)
-- Comprehensive epidemiological analysis of gastric cancer trends
-- Age-period-cohort modeling across five major emerging economies
 
 Zhang S, Tuerganbayi K, Wang J, **Liu H**, Shen P, Guo Y, et al. Incorporating preoperative and intraoperative data to predict postoperative pneumonia in elderly patients undergoing non-cardiothoracic surgery: The online two-stage prediction tool. *Geriatric Nursing*. 2025;62:244–253. [DOI: 10.1016/j.gerinurse.2025.02.012](https://www.sciencedirect.com/science/article/abs/pii/S019745722500076X?via%3Dihub)
-- Two-stage machine learning pipeline for pneumonia risk prediction
-- Web-based clinical decision support tool for perioperative care
 
 ### 2024
 
 Dai A, **Liu H**, Shen P, et al. Incorporating preoperative frailty to assist in early prediction of postoperative pneumonia in elderly patients with hip fractures: an externally validated online interpretable machine learning model. *BMC Geriatrics*. 2024;24(1):472. [DOI: 10.1186/s12877-024-05050-w](https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-024-05050-w)
-- Integration of frailty assessment into risk prediction models
-- External validation across multiple medical centers
-- Deployed as an online clinical tool with SHAP-based interpretability
 
 ### 2023
 
 **Liu H**, Dai A, Zhou Z, et al. An optimization for postpartum depression risk assessment and preventive intervention strategy based machine learning approaches. *Journal of Affective Disorders*. 2023;328:163-174. [DOI: 10.1016/j.jad.2023.02.028](https://www.sciencedirect.com/science/article/abs/pii/S0165032723001817?via%3Dihub) ⭐ **First Author**
-- Machine learning-based risk stratification for postpartum depression
-- Multi-objective optimization for intervention strategy allocation
-- Cost-effectiveness analysis of screening and prevention programs
-
 ---
 
 ## 🎓 Education
